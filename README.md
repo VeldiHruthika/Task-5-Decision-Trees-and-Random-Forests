@@ -7,6 +7,7 @@ About this Task:
 -The goal was to predict if a person has heart disease (target = 1) or not (target = 0) based on different medical attributes.
 
 What I did in this task:
+
 1.Loaded the Heart Disease dataset using Pandas from a CSV file (heart.csv).
 
 2.Split the dataset into features and target.
